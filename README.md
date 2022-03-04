@@ -15,7 +15,7 @@
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/debayan-jana-545946150/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/debayan-jana-545946150/" height="30" width="40" /></a>
 <a href="https://fb.com/https://www.facebook.com/debayan.jana.31" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/debayan.jana.31" height="30" width="40" /></a>
 <a href="https://instagram.com/debayan_7_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="debayan_7_" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/debayan jana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="debayan jana" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/Debayanishere" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="debayan jana" height="30" width="40" /></a>
 <a href="https://discord.gg/https://discord.gg/CkxtHJwZK6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/CkxtHJwZK6" height="30" width="40" /></a>
 </p>
 
