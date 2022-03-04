@@ -6,7 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=debayan7899&label=Profile%20views&color=0e75b6&style=flat" alt="debayan7899" /> </p>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2654273/screenshots/16444688/media/cb859f61953c0e81a7d341ed1b0180f6.gif">
 
-- 👨‍💻 My Personal Portfolio Website [visit my website](https://debayan7899.github.io/)
+- 👨‍💻 My Personal Portfolio Website [Visit My Website](https://debayan7899.github.io/)
 
 - 📫 How to reach me **https://www.instagram.com/debayan_7_**
 
